@@ -1,8 +1,8 @@
-# 🌧️🌧️ Just rayn:🌧️🌧️
+# 🌧️🌧️🌧️🌧️Just rayn🌧️🌧️🌧️🌧️🌧️
 🌱🌱I'm Rayn — a 3rd year Computer Science student at the University of San Carlos, just trying my best every day 🌱🌱
 
 
-## 🌐🌧️ Socials🌧️:
+## 🌧️Socials🌧️
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/carbonarayn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/von-rayn-malingin-a135882a2/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Bonrayn) 
 
 # 💻 Tech Stack:
