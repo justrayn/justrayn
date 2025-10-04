@@ -25,7 +25,7 @@
 
 <div align="center">
 
-**🌐 [Visit My Website!](https://justrayn.github.io/boiling-website/) 🚀**
+**🌐 [tbh theres nothing in the website <3](https://justrayn.github.io/boiling-website/) 🚀**
 
 </div>
 
