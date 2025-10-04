@@ -1,5 +1,7 @@
-# 🌧️🌧️🌧️🌧️Just rayn🌧️🌧️🌧️🌧️🌧️
+<div align="center">
+  # 🌧️🌧️🌧️🌧️Just rayn🌧️🌧️🌧️🌧️🌧️
 🌱🌱I'm Rayn — a 3rd year Computer Science student at the University of San Carlos, just trying my best(im not) every day 🌱🌱
+</div>
 
 
 ## 🌧️Socials🌧️
