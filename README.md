@@ -20,6 +20,18 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=justrayn&theme=dark&hide_border=false" width="380"/>
 </div>
 
-# Hey, I'm Rayn
 
-🔗 [Visit my portfolio website](https://vonrayn-portfolio.vercel.app/)
+<p align="center">
+  <a href="https://vonrayn-portfolio.vercel.app/" target="_blank" style="
+    display:inline-block;
+    padding: 10px 18px;
+    border-radius: 12px;
+    background:#111827;
+    color:#f9fafb;
+    text-decoration:none;
+    border:1px solid #4b5563;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  ">
+    🔗 Visit my portfolio website
+  </a>
+</p>
