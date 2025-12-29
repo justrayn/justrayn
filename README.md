@@ -21,7 +21,7 @@
 </div>
 
 <p align="center">
-  <a href="https://vonrayn-portfolio.vercel.app/" target="_blank">
+  <a href="https://portfolio-notebook.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20my%20portfolio-%23f472b6?style=for-the-badge&logo=sparkles&logoColor=white" />
   </a>
 </p>
