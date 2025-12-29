@@ -22,16 +22,7 @@
 
 
 <p align="center">
-  <a href="https://vonrayn-portfolio.vercel.app/" target="_blank" style="
-    display:inline-block;
-    padding: 10px 18px;
-    border-radius: 12px;
-    background:#111827;
-    color:#f9fafb;
-    text-decoration:none;
-    border:1px solid #4b5563;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-  ">
-    🔗 Visit my portfolio website
+  <a href="https://vonrayn-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20my%20portfolio-%23f472b6?style=for-the-badge&logo=sparkles&logoColor=white" />
   </a>
 </p>
