@@ -1,5 +1,5 @@
 # 🌧️🌧️🌧️🌧️ Just rayn 🌧️🌧️🌧️🌧️🌧️
-🌱🌱 I'm aspiring to be the celestial thunder dragon princess that got reincranated as a snake with the minecraft system in an alternate chinese history that have to start from zero because of the punishment of heavens for dealing with the fire demon from the east🌱🌱
+🌱🌱 I aspire to be the Celestial Thunder Dragon Princess who was reincarnated as a snake with the Minecraft system in an alternate Chinese history, starting from zero as punishment from the Heavens for making a deal with the Fire Demon of the East.🌱🌱
 
 ## 🌧️ Socials 🌧️
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/carbonarayn)
