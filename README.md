@@ -1,5 +1,5 @@
 # 🌧️🌧️🌧️🌧️ Just rayn 🌧️🌧️🌧️🌧️🌧️
-🌱🌱 I'm Rayn — a 3rd year Computer Science student at the University of San Carlos, just trying my best every day 🌱🌱
+🌱🌱 I'm aspiring to be like Linda Walker 🌱🌱
 
 ## 🌧️ Socials 🌧️
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/carbonarayn)
