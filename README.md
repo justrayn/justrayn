@@ -1,5 +1,5 @@
 # 🌧️🌧️🌧️🌧️ Just rayn 🌧️🌧️🌧️🌧️🌧️
-🌱🌱 I aspire to be the Dancing Celestial Thunder Dragon Sword Princess, reincarnated as a powerless rat–snake hybrid with the Minecraft system in an alternate Chinese history where Tan Sanzang from Journey to the West has become a fallen bodhisattva due to a water demon an alternate counterpart to the one who cursed me, forcing me to start from zero as punishment from the Heavens for making a deal with the Fire Demon of the East. 🌱🌱
+🌱🌱 I aspire to be the Dancing Celestial Thunder Dragon Sword Princess, reincarnated as a powerless rat–snake hybrid with the Minecraft system in an alternate Chinese history where Tan Sanzang from Journey to the West has become a fallen bodhisattva due to a water demon, an alternate counterpart to the one who cursed me, forcing me to start from zero as punishment from the Heavens for making a deal with the Fire Demon of the East. 🌱🌱
 
 ## 🌧️ Socials 🌧️
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/carbonarayn)
