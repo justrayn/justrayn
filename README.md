@@ -1,5 +1,5 @@
 # 🌧️🌧️🌧️🌧️ Just rayn 🌧️🌧️🌧️🌧️🌧️
-🌱🌱 I'm aspiring to be like Linda Walker 🌱🌱
+🌱🌱 I'm aspiring to be the celestial thunder dragon princess that got reincranated as a snake with the minecraft system in an alternate chinese history🌱🌱
 
 ## 🌧️ Socials 🌧️
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/carbonarayn)
