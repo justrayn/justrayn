@@ -1,5 +1,12 @@
 # 🌧️🌧️🌧️🌧️ Just rayn 🌧️🌧️🌧️🌧️🌧️
-🌱🌱 I 👑 Was 🌟 the Dancing 💃 Celestial 🌌 Thunder ⚡ Dragon 🐉 Sword 🗡 Princess 👸, but After ⏳ Making 🤝 a Deal 📜 with the Fire 🔥 Demon 👹 of the East 🌅, the Heavens ☁️ Reincarnated 🔄 Me 👤 as a Powerless 🚫 Phantom 👻-Rat 🐀 Humanoid 🧍 Hybrid 🧬 in the Outskirts 🌾 of an Alternate 🔀 Chinese 🇨🇳 History 📜 Where Tan Sanzang from Journey to the West 📿 Became 🔥 a Fallen ⬇️ Bodhisattva 🪷, So Now ⏰ I’m Starting 🚶 From Zero 0️⃣ Using 🛠 🛠 the Minecraft ⛏ Sleeping 😴 and Devouring🍖System 💻 Bestowed 🎁 by My Past ⏪ Self 🪞 🌱🌱 I am also the smartest being at the University of San Carlos (non-debatable smh argue with yourself).
+
+> ### 📜 The Prophecy of the Fallen Princess
+> 
+> 🌱🌱 I Was the Dancing Celestial Thunder Dragon Sword Princess 👑⚡🐉, but After Making a Deal with the Fire Demon of the East 🔥👹, the Heavens Reincarnated Me as a Powerless Phantom-Rat Humanoid Hybrid 👻🐀 in the Outskirts of an Alternate Chinese History 📜 where Tang Sanzang [From Journey to the West] 📿 Became a Fallen Bodhisattva 🪷🔥—So Now I’m Starting From Zero 0️⃣ Using the [Minecraft Sleeping & Devouring System] 🍗🛌 and the [Forbidden Divine Programming System] 🛠️💻 Bestowed by My Past Self... Because Only by Attaining the Highest Level of Technology Can I Reclaim My Lost Divinity! 🚀🌌✨ 🌱🌱
+
+I am also the smartest being at the University of San Carlos *(non-debatable smh; subject to peer review and/or caffeine intake)*. ☕⚡
+
+---
 
 ## 🌧️ Socials 🌧️
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/carbonarayn)
@@ -15,7 +22,6 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<!-- Optional (only keep if you actually want these shown) -->
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
