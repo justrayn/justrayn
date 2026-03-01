@@ -2,7 +2,7 @@
 > 
 > 🌱🌱 I Was the Dancing Celestial Thunder Dragon Sword Princess 👑⚡🐉, but After Making a Deal with the Fire Demon of the East 🔥👹, I was cast down and struck with heavenly punishment, resulting in reincarnating as a Powerless Phantom-Rat Humanoid Hybrid 👻🐀 in the Outskirts of an Alternate Chinese History 📜 where Tang Sanzang [From Journey to the West] 📿 Became a Fallen Bodhisattva 🪷🔥—So Now I’m Starting From Zero 0️⃣ Using the [Minecraft Sleeping & Devouring System] 🍗🛌 and the [Forbidden Divine Programming System] 🛠️💻 Bestowed by My Past Self... Because Only by Attaining the Highest Level of Technology Can I Reclaim My Lost Divinity! 🚀🌌✨ 🌱🌱
 
-I am also the smartest being at the University of San Carlos *(non-debatable smh; subject to peer review and/or caffeine intake)*. ☕⚡
+I am also the smartest being at the University of San Carlos *(non-debatable smh)*. ☕⚡
 
 ---
 ## 🌧️ Socials 🌧️
