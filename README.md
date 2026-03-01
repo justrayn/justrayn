@@ -1,14 +1,10 @@
 # 🌧️🌧️🌧️🌧️ Just rayn 🌧️🌧️🌧️🌧️🌧️
+> 
+> 🌱🌱 I Was the Dancing Celestial Thunder Dragon Sword Princess 👑⚡🐉, but After Making a Deal with the Fire Demon of the East 🔥👹, I was cast down and struck with heavenly punishment, resulting in reincarnating as a Powerless Phantom-Rat Humanoid Hybrid 👻🐀 in the Outskirts of an Alternate Chinese History 📜 where Tang Sanzang [From Journey to the West] 📿 Became a Fallen Bodhisattva 🪷🔥—So Now I’m Starting From Zero 0️⃣ Using the [Minecraft Sleeping & Devouring System] 🍗🛌 and the [Forbidden Divine Programming System] 🛠️💻 Bestowed by My Past Self... Because Only by Attaining the Highest Level of Technology Can I Reclaim My Lost Divinity! 🚀🌌✨ 🌱🌱
 
-> 
-> 🌱🌱 I Was the Dancing Celestial Thunder Dragon Sword Princess 👑⚡🐉, but After a Fateful Encounter with a **Reincarnated Indonesian Water Demon of the East** 🌊👹🇮🇩, I was Cursed and Cast Down! The Heavens Reincarnated Me as a Powerless Phantom-Rat Humanoid Hybrid 👻🐀 in the Outskirts of an Alternate Chinese History 📜. 
-> 
-> In this World, a Dark Counterpart to the Demon who Cursed Me has Corrupted the Heavens—Leading Tang Sanzang [From Journey to the West] 📿 to Become a Fallen Bodhisattva 🪷🔥. Now, I Must Start From Zero 0️⃣ Using My [Minecraft & Devouring System] 🍗🛌 and the [Forbidden Divine Programming System] 🛠️💻... Because Only by Reaching the Zenith of Technology Can I Break the Curse and Reclaim My Divinity! 🚀🌌✨ 🌱🌱
-
-I am also the smartest being at the University of San Carlos *(non-debatable smh argue with yourself)*. ☕⚡
+I am also the smartest being at the University of San Carlos *(non-debatable smh; subject to peer review and/or caffeine intake)*. ☕⚡
 
 ---
-
 ## 🌧️ Socials 🌧️
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/carbonarayn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/von-rayn-malingin-a135882a2/)
