@@ -24,6 +24,10 @@
 # 🌧️🌧️🌧️🌧️🌧️ GitHub Stats 🌧️🌧️🌧️🌧️🌧️
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=justrayn&theme=dark&hide_border=false" width="380"/>
+  # 🌧️🌧️🌧️🌧️🌧️ GitHub Stats 🌧️🌧️🌧️🌧️🌧️
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=justrayn&theme=dark&hide_border=false" width="380"/>
+</div>
 </div>
 
 <p align="center">
