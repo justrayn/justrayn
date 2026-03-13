@@ -21,13 +21,9 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
-# 🌧️🌧️🌧️🌧️🌧️ GitHub Stats 🌧️🌧️🌧️🌧️🌧️
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=justrayn&theme=dark&hide_border=false" width="380"/>
   # 🌧️🌧️🌧️🌧️🌧️ GitHub Stats 🌧️🌧️🌧️🌧️🌧️
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=justrayn&theme=dark&hide_border=false" width="380"/>
-</div>
 </div>
 
 <p align="center">
