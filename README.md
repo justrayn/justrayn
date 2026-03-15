@@ -1,6 +1,6 @@
 # 🌧️🌧️🌧️🌧️ Just rayn 🌧️🌧️🌧️🌧️🌧️
 > 
-> i'm actually gonna do it..
+> i'm actually gonna do it...
 
 ---
 ## 🌧️ Socials 🌧️
