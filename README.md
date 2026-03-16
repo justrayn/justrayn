@@ -21,6 +21,8 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
+# 🌧️🌧️🌧️🌧️🌧️ Focusing on 🌧️🌧️🌧️🌧️🌧️
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   # 🌧️🌧️🌧️🌧️🌧️ GitHub Stats 🌧️🌧️🌧️🌧️🌧️
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=justrayn&theme=dark&hide_border=false" width="380"/>
@@ -31,3 +33,4 @@
     <img src="https://img.shields.io/badge/Visit%20my%20portfolio-%23f472b6?style=for-the-badge&logo=sparkles&logoColor=white" />
   </a>
 </p>
+
