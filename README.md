@@ -1,6 +1,6 @@
 # 🌧️🌧️🌧️🌧️ Just rayn 🌧️🌧️🌧️🌧️🌧️
 > 
-> i'm actually gonna do it...
+> remind me to balance myself
 
 ---
 ## 🌧️ Socials 🌧️
