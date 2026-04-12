@@ -1,6 +1,6 @@
 # 🌧️🌧️🌧️🌧️ Just rayn 🌧️🌧️🌧️🌧️🌧️
 > 
-> remind me to balance my life, cause if not how am I gonna breakthrough Mortal Blood Stage?
+> remind me to balance my life, cause if not how am I gonna breakthrough Mortal Blood Stage?!
 
 ---
 ## 🌧️ Socials 🌧️
