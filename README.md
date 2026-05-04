@@ -1,3 +1,5 @@
+<img width="1172" height="843" alt="coco" src="https://github.com/user-attachments/assets/b0554740-f10b-4afe-8b76-a07ec4a6023d" />
+
 # 🌧️🌧️🌧️🌧️ Just rayn 🌧️🌧️🌧️🌧️🌧️
 > 
 > remind me to stop horsing around, cause if not how am I gonna breakthrough Mortal Blood Stage?!
