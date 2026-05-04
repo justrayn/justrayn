@@ -1,5 +1,8 @@
 
-> <img width="1172" height="843" alt="coco" src="https://github.com/user-attachments/assets/b0554740-f10b-4afe-8b76-a07ec4a6023d" /> <img width="585" height="636" alt="coco2" src="https://github.com/user-attachments/assets/6be35a7a-5240-49d3-8f84-0e14be4a0219" />
+<marquee behavior="scroll" direction="left" scrollamount="5">
+  <img src="https://github.com/user-attachments/assets/b0554740-f10b-4afe-8b76-a07ec4a6023d" height="300" />
+  <img src="https://github.com/user-attachments/assets/6be35a7a-5240-49d3-8f84-0e14be4a0219" height="300" />
+</marquee>
 
 # 🌧️🌧️🌧️🌧️ Just rayn 🌧️🌧️🌧️🌧️🌧️
 > 
